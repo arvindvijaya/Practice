@@ -1,0 +1,9 @@
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\bin\Debug\netcoreapp2.2\Salon.Data.deps.json
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\bin\Debug\netcoreapp2.2\Salon.Data.dll
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\bin\Debug\netcoreapp2.2\Salon.Data.pdb
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\obj\Debug\netcoreapp2.2\Salon.Data.csprojAssemblyReference.cache
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\obj\Debug\netcoreapp2.2\Salon.Data.csproj.CoreCompileInputs.cache
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\obj\Debug\netcoreapp2.2\Salon.Data.AssemblyInfoInputs.cache
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\obj\Debug\netcoreapp2.2\Salon.Data.AssemblyInfo.cs
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\obj\Debug\netcoreapp2.2\Salon.Data.dll
+C:\Users\arvind vijaya\source\repos\SalonSPA\Salon.Data\obj\Debug\netcoreapp2.2\Salon.Data.pdb

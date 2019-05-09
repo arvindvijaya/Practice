@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Salon.MVC.Client.ViewModels.SalonSPAViewModel>
+
+   @{
+        ViewBag.Title = "Salon SPA";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    <h1>Salon SPA</h1>
+
+    <p>         
+        @Html.ActionLink("Create New", "AddSalonSPA")
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "EditSalonSPA", new { id = item.ID }) |
+                        @Html.ActionLink("Delete", "DeleteSalonSPA", new { id = item.ID })
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+        <tr>
+            <td>
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            </td>
+        </tr>
+    </table>
