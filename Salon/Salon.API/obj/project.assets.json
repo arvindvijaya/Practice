@@ -13069,11 +13069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arvind vijaya\\source\\repos\\Salon\\Salon.API\\Salon.API.csproj",
+      "projectUniqueName": "C:\\GitRepo\\Practice\\Salon\\Salon.API\\Salon.API.csproj",
       "projectName": "Salon.API",
-      "projectPath": "C:\\Users\\arvind vijaya\\source\\repos\\Salon\\Salon.API\\Salon.API.csproj",
+      "projectPath": "C:\\GitRepo\\Practice\\Salon\\Salon.API\\Salon.API.csproj",
       "packagesPath": "C:\\Users\\arvind vijaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arvind vijaya\\source\\repos\\Salon\\Salon.API\\obj\\",
+      "outputPath": "C:\\GitRepo\\Practice\\Salon\\Salon.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13092,8 +13092,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\arvind vijaya\\source\\repos\\Salon\\Salon.Data\\Salon.Data.csproj": {
-              "projectPath": "C:\\Users\\arvind vijaya\\source\\repos\\Salon\\Salon.Data\\Salon.Data.csproj"
+            "C:\\GitRepo\\Practice\\Salon\\Salon.Data\\Salon.Data.csproj": {
+              "projectPath": "C:\\GitRepo\\Practice\\Salon\\Salon.Data\\Salon.Data.csproj"
             }
           }
         }

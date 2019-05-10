@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arvind vijaya\\source\\repos\\Salon.Client\\Salon.JQuery.Client\\Salon.JQuery.Client.csproj",
+      "projectUniqueName": "C:\\GitRepo\\Practice\\Salon.Client\\Salon.JQuery.Client\\Salon.JQuery.Client.csproj",
       "projectName": "Salon.JQuery.Client",
-      "projectPath": "C:\\Users\\arvind vijaya\\source\\repos\\Salon.Client\\Salon.JQuery.Client\\Salon.JQuery.Client.csproj",
+      "projectPath": "C:\\GitRepo\\Practice\\Salon.Client\\Salon.JQuery.Client\\Salon.JQuery.Client.csproj",
       "packagesPath": "C:\\Users\\arvind vijaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arvind vijaya\\source\\repos\\Salon.Client\\Salon.JQuery.Client\\obj\\",
+      "outputPath": "C:\\GitRepo\\Practice\\Salon.Client\\Salon.JQuery.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13143,11 +13143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arvind vijaya\\source\\repos\\Salon.Client\\Salon.MVC.Client\\Salon.MVC.Client.csproj",
+      "projectUniqueName": "C:\\GitRepo\\Practice\\Salon.Client\\Salon.MVC.Client\\Salon.MVC.Client.csproj",
       "projectName": "Salon.MVC.Client",
-      "projectPath": "C:\\Users\\arvind vijaya\\source\\repos\\Salon.Client\\Salon.MVC.Client\\Salon.MVC.Client.csproj",
+      "projectPath": "C:\\GitRepo\\Practice\\Salon.Client\\Salon.MVC.Client\\Salon.MVC.Client.csproj",
       "packagesPath": "C:\\Users\\arvind vijaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arvind vijaya\\source\\repos\\Salon.Client\\Salon.MVC.Client\\obj\\",
+      "outputPath": "C:\\GitRepo\\Practice\\Salon.Client\\Salon.MVC.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
