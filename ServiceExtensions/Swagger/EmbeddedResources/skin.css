@@ -1,0 +1,56 @@
+﻿.swagger-section #header{
+    background-color : #013e75 !important;
+    border-bottom : 1px solid #ddd;
+    padding : 0;
+}
+
+.swagger-section #header form#api_selector{
+    padding:20px 0 13px 0;
+}
+
+.swagger-section #header #logo {
+    display:inline-block;
+    font-size: 1.2em;
+    font-weight : bold;
+    text-decoration :none;
+    background :transparent url(logo_small.png) no-repeat left center;
+    padding : 50px 215px 20px 40px !important;
+    color : #666
+}
+
+    .swagger-section #header form#api_selector .input a#explore {
+        background : #4374b9 none repeat scroll 0 0 ;
+        border:medium none;
+        color : #ffffff;
+        cursor :pointer;
+        display : inline-block;
+        font-family : inherit;
+        font-size:13px;
+        height:34px;
+        line-height :34px;
+        padding : 0 20px;
+        text-shadow : 1px 1px rgba(0,0,0,0.1);
+        text-decoration:none;
+        vertical-align:top;
+        -webkit-border-radius:0;
+        border-radius : 0;
+    }
+
+    .swagger-section #header form#api_selector .input a#explore:hover {
+        opacity:.8;
+        text-decoration: none; 
+    }
+
+    .swagger-section #header form#api_selector .input input {
+        border: 1px solid #a1c0d4;
+        height: 34px;
+        padding: 5px 10px;
+        -webkit-box-sizing: border-box;
+        box-sizing : border-box;
+        color:#333333;
+    }
+
+    .swagger-section .swagger-ui-wrap .info_description {
+        padding-bottom :0px;
+        margin-bottom:-25px;
+    }

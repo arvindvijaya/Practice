@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Extensions.Swagger</AssemblyName>
+    <RootNamespace>Extensions.Swagger</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="EmbeddedResources\favicon.ico" />
+    <None Remove="EmbeddedResources\index.html" />
+    <None Remove="EmbeddedResources\logo_small.png" />
+    <None Remove="EmbeddedResources\skin.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="EmbeddedResources\favicon.ico" />
+    <EmbeddedResource Include="EmbeddedResources\index.html" />
+    <EmbeddedResource Include="EmbeddedResources\logo_small.png" />
+    <EmbeddedResource Include="EmbeddedResources\skin.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Configuration" Version="1.0.0" />
+    <PackageReference Include="CoreBase" Version="1.0.0" />
+    <PackageReference Include="Logging" Version="1.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="2.3.0" />
+  </ItemGroup>
+
+</Project>
